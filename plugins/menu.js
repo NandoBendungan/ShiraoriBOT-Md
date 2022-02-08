@@ -33,6 +33,10 @@ const defaultMenu = {
 │✾ Library: Baileys-MD
 │✾ Mode: ${global.opts['self'] ? 'Self' : 'publik'}
 │✾ Runtime: %uptime
+│✾ Me Github: Https://github.com/NandoBendungan
+│✾ YouTube : Https://YouTube.com/c/OMTOSLURR
+│✾ OWNER: Muhammad Nando Pratama
+│✾ Nomer OWNER: Https://wa.me/+6282331243615
 ╰❑
 ╭─❑ 「 INFO USER 」 ❑──
 │ ✾ Name: %name
@@ -42,11 +46,13 @@ const defaultMenu = {
 │ ✾ Exp: %totalexp
 │ ✾ Level: %level
 │ ✾ Role: %role
+│ ✾ Pesan: Hi %name 
 ╰❑
 ╭─❑ 「 INFORMASI 」 ❑──
 │ Bot ini masih tahap beta
 │ apabila ada bug/eror harap
 │ lapor ke owner
+│ Https://wa.me/+6282331243615
 ╰❑
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
